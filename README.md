@@ -14,8 +14,6 @@ Choose a project structure based on the complexity and needs of your application
 - **Example**:
     
     ```
-    plaintext
-    Copy code
     src/
     ├── App.vue
     ├── main.js
@@ -34,8 +32,6 @@ Choose a project structure based on the complexity and needs of your application
 - **Example**:
     
     ```
-    plaintext
-    Copy code
     src/
     ├── main.js
     ├── App.vue
@@ -61,8 +57,6 @@ Choose a project structure based on the complexity and needs of your application
 - **Example**:
     
     ```
-    plaintext
-    Copy code
     src/
     ├── main.js
     ├── App.vue
@@ -90,8 +84,6 @@ Choose a project structure based on the complexity and needs of your application
 - **Example**:
     
     ```
-    plaintext
-    Copy code
     src/
     ├── main.js
     ├── App.vue
